@@ -28,7 +28,7 @@ The Teaching Assistant (TA) and Lab Demonstrator (LD) Management System is a Win
 ### Setup
 1. **Clone the repository:** Clone this repository to your local machine using Git:
    ```
-   git clone https://github.com/yourusername/ta-lab-demonstrator-management-system
+   git clone https://github.com/NoorUlBaseer/Teaching-Assistant-and-Lab-Demonstrator-Management-System
    ```
 2. **Open the project:** Open the project in Visual Studio or open its `.sln` file.
 3. **Database Configuration:** Create a database in SQL Server and name it as `TA_and_Lab_Demonstrator_Management_System` to match the connection string configuration and setup the tables according to the schema provided below.
